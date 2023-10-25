@@ -7,3 +7,10 @@ Through advanced data analytics and statistical modeling, the project seeks to a
 
 By conducting a comprehensive analysis, this project not only provides a better understanding of global health outcomes but also offers valuable insights for policymakers, researchers, and the general public. The outcomes of this project contribute to evidence-based decision-making and the formulation of strategies to improve the quality of life and increase life expectancy in various populations.
 
+Key Objectives:
+1. Analyze WHO data to identify trends and correlations related to life expectancy.
+2. Investigate the impact of socio-economic, healthcare, and environmental factors on life expectancy.
+3. Generate data visualizations and reports to communicate findings effectively.
+4. Offer insights that can inform healthcare policies and strategies on a global scale.
+
+The Life Expectancy Analysis project represents an important endeavour in the field of public health and data science, with the potential to drive positive change and improve the lives of people worldwide.
